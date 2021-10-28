@@ -1,0 +1,1 @@
+Página protótipo de um blog de tecnologia.
